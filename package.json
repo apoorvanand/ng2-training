@@ -16,7 +16,7 @@
   "dependencies": {
     "@angular/common": "6.x",
     "@angular/compiler": "6.x",
-    "@angular/core": "6.x",
+    "@angular/core": "11.0.5",
     "@angular/forms": "6.x",
     "@angular/http": "6.x",
     "@angular/platform-browser": "6.x",
